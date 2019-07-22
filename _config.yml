@@ -22,5 +22,5 @@ defaults:
     layout: page
 description: Học để tạo giá trị
 theme: minima
-siteurl: http://baongoc06/
-permalink: prettybaongoc06.com
+siteurl: https://baongoc06.github.io/bn/
+permalink: pretty
